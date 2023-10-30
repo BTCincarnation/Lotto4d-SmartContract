@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"strutils.sol": "strutils"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"strutils.sol": {
+			"keccak256": "0x965b0f365bc838fdc63f46c4aaed690c72f47ff1cb2a2cb9b25609f8efecabf6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1b486275791ede2e750eae10fdbb185ea203a6ec38160584822569fe444185c0",
+				"dweb:/ipfs/QmeNgiYsFyszupXLuXrn6NsbUu1xGEbFqEUjyGPZ3ioMhA"
+			]
+		}
+	},
+	"version": 1
+}
